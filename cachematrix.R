@@ -17,7 +17,7 @@
 
 ## Retrieving from the cache in the second run
 ## > cacheSolve(M)
-## getting cached data.
+## Fetching inverse matrix from cached data.
 ##           [,1]      [,2]
 ## [1,] 1.0666667 0.2666667
 ## [2,] 0.2666667 1.0666667
